@@ -15,6 +15,7 @@
 (sorry for the quality of the gif)
 
 # Future Goals
-+ Offline support
++ Room Caching
 + Write test cases
++ Using DiffUtil in RecyclerView
 
