@@ -17,5 +17,5 @@
 # Future Goals
 + Room Caching
 + Write test cases
-+ Using DiffUtil in RecyclerView
++ Using DiffUtil with RecyclerView
 
